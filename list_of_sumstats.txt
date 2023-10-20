@@ -17,3 +17,10 @@ T2D="sumstats/t2d_Vujkovic2020.txt",# https://www.nature.com/articles/s41588-020
 CAD="sumstats/cad_aragam2021.txt",# https://www.medrxiv.org/content/10.1101/2021.05.24.21257377v1.full.pdf   
 SCZ="sumstats/scz_ng2014_ukbf.txt"
 
+References
+Data Files FG_36snps.txt: Fasting Glucose - data from Lagou et al. (2021) 
+GLGC_Graham2021.txt: Summary statistics for LDL, (log) Triglycerides - data from Graham et al. (2021) 
+ICBP_Warren2022.txt: Summary statistics for blood pressure phenotypes (systolic and diastolic) - data from Warren et al. (2022) ad_marioni2018_ukbf.txt: Summary statistics for Alzheimer's Disease - data from Marioni et al. (2018) 
+mdd_howard2019_ukbf.txt: Summary statistics for Major Depression Disorder - data from Howard et al. (2019) 
+scz_ng2014_ukbf.txt: Summary statistics for Schizophrenia - PGC consortium 
+t2d_Vujkovic2020.txt: Summary statistics for type 2 diabetes - ref. https://www.nature.com/articles/s41588-020-0637-y#Sec45 cad_aragam2021.txt: Summary statistics for Coronary Artery Disease - ref. https://www.medrxiv.org/content/10.1101/2021.05.24.21257377v1.full.pdf
