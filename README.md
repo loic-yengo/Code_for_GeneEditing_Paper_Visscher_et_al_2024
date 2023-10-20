@@ -10,3 +10,5 @@ The list of files is below
 - Supplementary_Figure_3_Pleiotropic_Effects_on_Fitness.R
 
 Figure_1_Top_10_loci_edited.R also generates two files named "Example_of_10_loci_to_edit_for_5_diseases.txt" and "Example_of_10_loci_to_edit_for_5_qt_traits.txt", which form the basis of Supplementary Table 1.
+
+The list of summary statistics files is given in list_of_sumstats.txt. The GWAS summary statistics files used to generate the figures are contained in the zipped folder named sumstats.zip. 
