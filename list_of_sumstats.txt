@@ -1,1 +1,19 @@
+List of files and acronyms
+FG: summary statistics for Fasting Glucose GWAS
+GLGC: summary statistics for lipids GWAS (LDL and Triglycerides)
+ICBP: summary statistics for Blood Pressure (BP) GWAS (Systolic BP and Diastolic BP)
+MDD: summary statistics for Major Depressive Disorders
+T2D: summary statistics for Type 2 Diabetes
+CAD: summary statistics for Coronary Artery Disease
+SCZ: summary statistics for Schizophrenia
+
+List of summary statistics files
+FG="sumstats/FG_36snps.txt",
+GLGC="sumstats/GLGC_Graham2021.txt",
+ICBP="sumstats/ICBP_Warren2022.txt",
+AD="sumstats/ad_marioni2018_ukbf.txt",
+MDD="sumstats/mdd_howard2019_ukbf.txt",
+T2D="sumstats/t2d_Vujkovic2020.txt",# https://www.nature.com/articles/s41588-020-0637-y#Sec45
+CAD="sumstats/cad_aragam2021.txt",# https://www.medrxiv.org/content/10.1101/2021.05.24.21257377v1.full.pdf   
+SCZ="sumstats/scz_ng2014_ukbf.txt"
 
